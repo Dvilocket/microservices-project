@@ -56,6 +56,9 @@ Ejecutar en cada microservicio:
 ```bash id="1o0d0v"
 mvn clean package -DskipTests
 ```
+si no te sirve el anterior comando, usa este desde el IDE
+
+.\mvnw.cmd clean package -DskipTests
 
 Esto generará los archivos `.jar` necesarios para Docker.
 
