@@ -103,6 +103,19 @@ Para reiniciar completamente la base de datos:
 docker compose down -v
 ```
 
+# Nota
+
+importante si se descarga el codigo fuente, importar los modulos para que el IDE los reconozca
+1.Se le da en la opción File
+2.Se le da en la opción project Structure
+3.Se busca la opción de Modules
+4.En el icono de una cruz o un mas, se le da en agregar y se busca el archivo POM de cada servicio
+
+<img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/51d12fdf-cb3b-46cb-831c-486c4a01de54" />
+
+
+
+
 ---
 
 # Autor
